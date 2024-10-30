@@ -4,6 +4,7 @@
 
 <p align="center">Free WiFi prank using Esp8266 wifi controller</p>
 
+![Awesome ReadME](https://raw.githubusercontent.com/n4bi10p/esp8266-wifi-prank/refs/heads/main/esp8266img.webp)
 
 <p align="center">
 <a href="https://github.com/n4bi10p/esp8266-wifi-prank">📱 Visit this Project</a>
