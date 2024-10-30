@@ -43,7 +43,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 4. After that install usb CH340 drivers.. google it xD ;
 5. Now in the Arduino IDE select the Board Generic ESP8266 check if it is connected or not. If it is showing not connected then it might be your driver issue. install it properly.
-6. If you want to change the SSID make the proper changes in the Code change the.
+6. If you want to change the SSID make the proper changes in the Code.
 7. Verify the Code and Upload it, Be patient.
 8. Enjoy!!!!!
 9. Make sure you follow me, start and fork this repository
